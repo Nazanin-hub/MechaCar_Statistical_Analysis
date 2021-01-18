@@ -77,7 +77,7 @@ The below result compares manufacturing lot3 against mean PSI of the population.
 
 ## Study Design: MechaCar vs Competition
 
-- cost, fuel efficiency, reliability, and horse power would be some interesting metrics for customers to design a statistical study to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers. 
+- Cost, fuel efficiency, reliability, and horse power would be some interesting metrics for customers to design a statistical study to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers. 
 - The null hypothesis would be there is no statistical difference between the MechaCar vehicles and all other vehicles. The alternative would be the opposite.
 - An ANOVA test can be used to compare the each metric means across the different manufacturers.
 - One dataset containing MechaCar vehicles dataset and all other vehicles manufacturers can be used to perform the test.
