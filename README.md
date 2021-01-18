@@ -28,7 +28,7 @@ The below image is the result of designing a linear model that predicts the mpg 
 
  1- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
  
- Vehicle_lenght, ground_clearance and intercep have the lowest Pr(>|t|) or highest t-value which it means they provided a non-random amount of variance to the mpg values in the dataset.
+ Vehicle_lenght, ground_clearance, and intercept have the lowest Pr(>|t|) or highest t-value which it means they provided a non-random amount of variance to the mpg values in the dataset.
  
  2- Is the slope of the linear model considered to be zero? Why or why not?
  
@@ -36,7 +36,7 @@ The below image is the result of designing a linear model that predicts the mpg 
  
  3- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
  
-Yes, R-square is 0.715 which means approximately 71% of the time the model will predict mpg values correctly. Also, the vehicle weight, the spoiler angle and AWD have the most significant effect on mpg. So, this linear model predict mpg of MechaCar prototypes effectively.
+Yes, R-square is 0.715 which means approximately 71% of the time the model will predict mpg values correctly. Also, the vehicle weight, the spoiler angle, and AWD have the most significant effect on mpg. So, this linear model predicts the mpg of MechaCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
 
@@ -51,7 +51,7 @@ The below result shows the mean, median, variance, and standard deviation for ea
 
 1- The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
- - Based on the first above result, the total variance is 62.29 psi <100 psi which means the current manufacturing data meets this design specification for all manufacturing lots in total. Also based on the second above result, it meets the design specification for lot1 and lot2 because their variance is 0.98 psi. and 7.47 psi. respectively which is less than 100. Just the lot3 does not meet the design specification cuase its variance is 170 which is more than 100 pounds per square.
+ - Based on the first above result, the total variance is 62.29 psi <100 psi which means the current manufacturing data meets this design specification for all manufacturing lots in total. Also based on the second above result, it meets the design specification for lot1 and lot2 because their variance is 0.98 psi. and 7.47 psi. respectively which is less than 100. Just the lot3 does not meet the design specification cause its variance is 170 which is more than 100 pounds per square.
 
 ## T-Tests on Suspension Coils
 
@@ -71,12 +71,12 @@ The below result compares manufacturing lot3 against mean PSI of the population.
 
 ![Sample_t_test_manufacturing_lot3](https://user-images.githubusercontent.com/71282697/104854968-a7f7d680-58be-11eb-9027-d6cd173befe5.png)
 
- - As the first above result shows, P-value = 0.06 is greater than significance level of 0.05 percent. So, there is not enough evidence to reject the null hypothesis. This means that PSI across all manufacturing lots is statistically similar to the population mean of 1,500 pounds per square inch.
+ - As the first above result shows, P-value = 0.06 is greater than the significance level of 0.05 percent. So, there is not enough evidence to reject the null hypothesis. This means that PSI across all manufacturing lots is statistically similar to the population mean of 1,500 pounds per square inch.
  
- - As the above results of lot1, lot2 and lot3 show, P-value in each manufacturing lot is greater than significance level of 0.05 percent. So, the PSI for each manufacturing lot is statistically simmilar to the population mean of 1,500 pounds per square inch.
+ - As the above results of lot1, lot2, and lot3 show, P-value in each manufacturing lot is greater than the significance level of 0.05 percent. So, the PSI for each manufacturing lot is statistically similar to the population mean of 1,500 pounds per square inch.
 
 #### Study Design: MechaCar vs Competition
 
-cost, fuel efficiency, horse power could be some interesting metrics for customers to design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers. The null hypothesis 
+cost, fuel efficiency, horsepower could be some interesting metrics for customers to design a statistical study to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers. The null hypothesis
 
 cost, fuel efficiency, horse power,
