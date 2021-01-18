@@ -75,7 +75,7 @@ The below result compares manufacturing lot3 against mean PSI of the population.
  
  - As the above results of lot1, lot2, and lot3 show, P-value in each manufacturing lot is greater than the significance level of 0.05 percent. So, the PSI for each manufacturing lot is statistically similar to the population mean of 1,500 pounds per square inch.
 
-#### Study Design: MechaCar vs Competition
+## Study Design: MechaCar vs Competition
 
 - cost, fuel efficiency, reliability, and horse power would be some interesting metrics for customers to design a statistical study to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers. 
 - The null hypothesis would be there is no statistical difference between the MechaCar vehicles and all other vehicles. The alternative would be the opposite.
