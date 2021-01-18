@@ -79,4 +79,4 @@ The below result compares manufacturing lot3 against mean PSI of the population.
 
 cost, fuel efficiency, horsepower could be some interesting metrics for customers to design a statistical study to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers. The null hypothesis
 
-cost, fuel efficiency, horse power,
+
