@@ -28,9 +28,15 @@ The below image is the result of designing a linear model that predicts the mpg 
 
  1- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
  
+ Vehicle_lenght, ground_clearance and intercep have the lowest Pr(>|t|) or highest t-value which it means they provided a non-random amount of variance to the mpg values in the dataset.
+ 
  2- Is the slope of the linear model considered to be zero? Why or why not?
  
+ P-value = 5.35e-11 is less than significance level of 0.05 percent. So, there is enough evidence to reject the null hypothesis which means the slope of the linear model can not be considered to be zero.
+ 
  3- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+ 
+Yes, R-square is 0.715 which means approximately 71% of the time the model will predict mpg values correctly. Also, the vehicle weight, the spoiler angle and AWD have the most significant effect on mpg. So, this linear model predict mpg of MechaCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
 
