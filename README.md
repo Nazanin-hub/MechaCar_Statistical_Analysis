@@ -73,7 +73,9 @@ The below result compares manufacturing lot3 against mean PSI of the population.
 
  - As the first above result shows, P-value = 0.06 is greater than the significance level of 0.05 percent. So, there is not enough evidence to reject the null hypothesis. This means that PSI across all manufacturing lots is statistically similar to the population mean of 1,500 pounds per square inch.
  
- - As the above results of lot1, lot2, and lot3 show, P-value in each manufacturing lot is greater than the significance level of 0.05 percent. So, the PSI for each manufacturing lot is statistically similar to the population mean of 1,500 pounds per square inch.
+ - As the above results of lot1, lot2 show, P-value in each manufacturing lot is greater than the significance level of 0.05 percent. So, the PSI for manufacturing lot1 and lot2 is statistically similar to the population mean of 1,500 pounds per square inch.
+ 
+ - As the above results of lot3 shows, P-value less than the significance level of 0.05 percent. So, the PSI for manufacturing lot3 is statistically different from the population mean of 1,500 pounds per square inch.
 
 ## Study Design: MechaCar vs Competition
 
