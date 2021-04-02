@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-Perform statistical tests using R programming language
+Performed statistical tests using R programming language
 
 ## Project Overview
 
