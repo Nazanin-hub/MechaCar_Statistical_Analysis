@@ -15,9 +15,9 @@ AutosRUs’ newest prototype Project, the MechaCar, is suffering from production
 
 ## Resources
 
-Data Source: MechaCar_mpg.csv, Suspension_Coil.csv
+  - Data Source: MechaCar_mpg.csv, Suspension_Coil.csv
 
-Software: RStudio 1.3.1093
+  - Software: RStudio 1.3.1093
 
 ## Linear Regression to Predict MPG
 
